@@ -1,5 +1,3 @@
-README.md
-
 
 ## forensics tools
 [sherloq](https://github.com/GuidoBartoli/sherloq)
