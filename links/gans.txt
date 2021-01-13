@@ -1,4 +1,0 @@
-https://github.com/microsoft/DiscoFaceGan
-https://github.com/max-liu-112/STGAN-WO
-https://marcoamonteiro.github.io/pi-GAN-website/
-https://github.com/FeliMe/AudioStyleNet
